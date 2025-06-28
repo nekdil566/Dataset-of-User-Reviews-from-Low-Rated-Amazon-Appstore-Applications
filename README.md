@@ -9,7 +9,7 @@ This repository contains a dataset of 79,821 user reviews from 64 low-rated soft
 
 ### File Description
 
-* **File:** `low_rated_app_reviews.csv`
+* **File:** `dataset.csv`
 * **Format:** Comma-Separated Values (CSV)
 * **Encoding:** UTF-8
 * **Rows:** 79,821
